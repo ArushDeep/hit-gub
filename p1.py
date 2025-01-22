@@ -1,1 +1,2 @@
-print("this is hell")
+def fn1():
+  print("func1. good func")
