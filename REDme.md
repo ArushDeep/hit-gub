@@ -1,6 +1,5 @@
-This directory hitGub is made with the main intention to understand and study the workings of git and gitHub
-change lmao
-change again
-asdas
+This directory hitGub is made with the main intention to understand and study the workings of git 
+git commands:- init, add, commit
+we also see branching
 
-mikeTyson aint ironmike no more
+I am yet to learn about gitHub
