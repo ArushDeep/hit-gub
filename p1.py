@@ -8,3 +8,4 @@ def fn3():
   print("func3. good func")
 
 print("hello world")
+print("this is a feature1")
