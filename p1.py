@@ -6,3 +6,5 @@ def fn2():
 
 def fn3():
   print("func3. good func")
+
+prin("hello world")
